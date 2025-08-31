@@ -5,21 +5,6 @@ import data from './data/data.json'
 </script>
 
 <template>
-  <!-- <div class="min-h-screen">
-    <div class="max-w-[90%] mx-auto grid grid-cols-1 md:grid-cols-4 lg:grid-cols-4 gap-4 mt-16">
-      <div class="md:col-span-2 lg:col-span-3">
-        <h1>Desert</h1>
-        <div class="grid sm:grid-cols-2 md:grid-cols-3">
-          <Card />
-          <Card />
-          <Card />
-        </div>
-      </div>
-      <div>
-        <Chart />
-      </div>
-    </div>
-  </div> -->
   <div class="min-h-screen bg-[#fdf8f6] p-6">
     <div class="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-6">
       <div class="md:col-span-2 lg:col-span-3">
